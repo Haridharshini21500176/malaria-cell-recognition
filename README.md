@@ -155,13 +155,13 @@ plt.show()
 ## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](./DL1.png)
+![image](./D41.png)
 
 ### Classification Report & Confusion Matrix:
-![image](./DL2.png)
+![image](./D42.png)
 
 ### New Sample Data Prediction:
-![image](./DL3.png)
+![image](./D43.png)
 
 ## RESULT:
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
